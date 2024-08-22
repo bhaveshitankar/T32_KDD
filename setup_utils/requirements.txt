@@ -1,0 +1,4 @@
+behave
+lauterbach-trace32-rcl==1.0.10
+behave-html-formatter
+allure-behave
