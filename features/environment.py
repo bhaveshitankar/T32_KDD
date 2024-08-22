@@ -7,3 +7,4 @@ def before_all(context):
     handler.setFormatter(formatter)
     context.logger.addHandler(handler)
     context.logger.setLevel(logging.INFO)
+    context.logger.log(logging.INFO,"started logger successfully..")

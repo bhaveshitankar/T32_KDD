@@ -25,3 +25,9 @@ CMM Files: Automate the setup, flashing, and execution process in TRACE32.
 PTP Files: Configure trace settings and data capture in TRACE32.
 ELF Files: Contain the compiled firmware and symbols for loading and debugging on the target device.
 PFF Files: Store the recorded execution trace for post-execution analysis. 
+
+## Setup
+setupFramework.bat
+
+## Run
+runFramework.bat
